@@ -29,6 +29,5 @@ int main() {
         cout << endl;
     }
 
-    // Finalizamos la función principal retornando 0
     return 0;
-}//Matriz con el ciclo for:
+}
